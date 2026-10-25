@@ -1,0 +1,1 @@
+Day 1: installed Git and created my GitHub repository
